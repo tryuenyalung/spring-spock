@@ -10,4 +10,4 @@
 
 ## Endpoints:
 - [Swagger Docs](http://localhost:8080/swagger-ui.html)
-* [Redoc](localhost:8080/v1/docs)
+* [Redoc](http://localhost:8080/v1/docs)
